@@ -89,24 +89,7 @@ const run = async (user) => {
   }
 };
 
-console.log(
-  colors.yellow.bold(
-    `=============  Tool phát triển và chia sẻ miễn phí bởi zalo MOD telegram Bingx_QD  =============`
-  )
-);
-console.log(
-  "Mọi hành vi buôn bán tool dưới bất cứ hình thức nào đều không được cho phép!"
-);
-console.log(
-  `Telegram: ${colors.green(
-    "https://t.me/TGCoinAirdropVN"
-  )}  ___  Telegram: ${colors.blue("https://t.me/TGCoinAirdropVN")}`
-);
-console.log(
-  `🚀 Cập nhật các tool mới nhất tại TGCoinAirdropVN Channel: 👉 ${colors.gray(
-    "TGCoinAirdropVN"
-  )} 👈`
-);
+
 console.log("");
 console.log("");
 console.log("");
