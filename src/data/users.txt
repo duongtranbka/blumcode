@@ -1,0 +1,1 @@
+query_id=AAHiWxY-AwAAAOJbFj4gwpIv&user=%7B%22id%22%3A7484103650%2C%22first_name%22%3A%22Popyei%22%2C%22last_name%22%3A%22Muppo%22%2C%22username%22%3A%22peoormkd%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1726242628&hash=360eaea1bdcf2ec2749ffcb1db2e40e95f27b1ae256155b43f9dd6e91bc85046
